@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+    <string name="ingrese">Ingrese un texto</string>
+    <string name="comparar">Comparar</string>
+</resources>
