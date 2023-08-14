@@ -7,6 +7,7 @@ Este proyecto contiene:
 - Test Unitarios
 - Test Instrumentados
 - Animaciones implementadas con la libreria [Lottie de Airbnb](https://github.com/airbnb/lottie-android)
+
 [Link del proyecto en Github](https://katiapagliera.github.io/Proyecto-Final-Comparador-ArgentinaPrograma/)
 [Link del documento de Google](https://docs.google.com/document/d/16MLtF0E0sRDC7u11eltlWEzHOhkL11-o/edit?usp=sharing&ouid=103624042050583417958&rtpof=true&sd=true)
 
